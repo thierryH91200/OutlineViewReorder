@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutlineViewReorder/ViewController.swift"
+            timestampString = "527601400.599976"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "variable initialization expression of OutlineViewReorder.ViewController.draggedNode : Swift.Optional&lt;Swift.AnyObject&gt;"
+                  moduleName = "OutlineViewReorder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thierryh24100/Documents/NSOutlineViewReorder/OutlineViewReorder/ViewController.swift"
+                  timestampString = "527586154.724226"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutlineViewReorder.ViewController.draggedNode.getter : Swift.Optional&lt;Swift.AnyObject&gt;"
+                  moduleName = "OutlineViewReorder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thierryh24100/Documents/NSOutlineViewReorder/OutlineViewReorder/ViewController.swift"
+                  timestampString = "527586154.726344"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "105">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutlineViewReorder.ViewController.draggedNode.setter : Swift.Optional&lt;Swift.AnyObject&gt;"
+                  moduleName = "OutlineViewReorder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thierryh24100/Documents/NSOutlineViewReorder/OutlineViewReorder/ViewController.swift"
+                  timestampString = "527586154.72832"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "110">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutlineViewReorder.ViewController.init(nibName: Swift.Optional&lt;__ObjC.NSNib.Name&gt;, bundle: Swift.Optional&lt;__ObjC.Bundle&gt;) -&gt; OutlineViewReorder.ViewController"
+                  moduleName = "OutlineViewReorder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thierryh24100/Documents/NSOutlineViewReorder/OutlineViewReorder/ViewController.swift"
+                  timestampString = "527586154.730567"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "1664">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OutlineViewReorder.ViewController.init(coder: __ObjC.NSCoder) -&gt; Swift.Optional&lt;OutlineViewReorder.ViewController&gt;"
+                  moduleName = "OutlineViewReorder"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/thierryh24100/Documents/NSOutlineViewReorder/OutlineViewReorder/ViewController.swift"
+                  timestampString = "527586154.732539"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "1627">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutlineViewReorder/OutlineDataSource.swift"
+            timestampString = "527601400.600324"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "55"
+            endingLineNumber = "55"
+            landmarkName = "outlineView(_:shouldShowOutlineCellForItem:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OutlineViewReorder/OutlineDataSource.swift"
+            timestampString = "527601400.600369"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "87"
+            endingLineNumber = "87"
+            landmarkName = "outlineView(_:pasteboardWriterForItem:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
